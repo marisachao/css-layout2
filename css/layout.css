@@ -1,9 +1,8 @@
-.box grid_4 {
-  padding: 20px 20px 20px 20px;
+.box {
+  padding: 10px 20px;
 }
 
-.box img {
-  position: relative;
+img {
   width: 100%;
 }
 
