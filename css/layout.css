@@ -1,3 +1,7 @@
+body {
+  padding-top: 100px ;
+}
+
 .box {
   padding: 10px 20px;
 }
@@ -8,13 +12,11 @@ img {
 
 .heading {
   left: 0px;
-    top: 0px;
-    position: fixed;
-    width: 100%;
-    padding: 0px;
-    margin: 0px;
-    z-index: 10;
-    border-bottom: 2px solid #eee;
+  top: 0px;
+  position: fixed;
+  width: 100%;
+  padding: 10px 10px 0px 10px;
+  border-bottom: 2px solid #eee;
 }
 
 .footer {
