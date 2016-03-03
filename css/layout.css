@@ -26,3 +26,10 @@
     padding: 0 20px;
     border-top: 2px solid #eee;
 }
+
+.box a.read-more {
+    display: block;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 1px solid #ccc;
+}
